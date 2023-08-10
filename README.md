@@ -1,6 +1,6 @@
 # SlidingCubeGame
 
-J'ai fait ce projet apprendre à utiliser le programme de dévleppement de jeu vidéo Unity. Pour le faire, j'ai suivi un tutoriel de la chaîne youtube Brackeys. 
+J'ai fait ce projet pour apprendre à utiliser le programme de dévleppement de jeu vidéo Unity. Pour le faire, j'ai suivi un tutoriel de la chaîne youtube Brackeys. 
 
 Je n'ai pas exactement suivi le tutoriel: mon jeu comporte un menu pour sélectionner des niveaux, et un mode _endless_.
 
