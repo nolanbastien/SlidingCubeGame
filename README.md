@@ -5,3 +5,7 @@ After completing the tutorial, I added a level selection menu and an endless mod
 
 # Where to play?
 The game is available at: https://nolanbastien.github.io/SlidingCubeGame/
+
+# Screenshot
+
+<img width="958" alt="Untitled" src="https://github.com/user-attachments/assets/d91e5a20-884f-40d2-a945-1399e84b6f6a">
