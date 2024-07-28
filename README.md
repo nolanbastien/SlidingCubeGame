@@ -1,8 +1,7 @@
-# SlidingCubeGame
+# Sliding Cube Game
+I made this project to learn how to use the Unity game engine. To do this, I followed a tutorial from the YouTube channel Brackeys.
 
-J'ai fait ce projet pour apprendre à utiliser le programme de dévleppement de jeu vidéo Unity. Pour le faire, j'ai suivi un tutoriel de la chaîne youtube Brackeys. 
+After completing the tutorial, I added a level selection menu and an endless mode, which challenged me to test what I had learned.
 
-Je n'ai pas exactement suivi le tutoriel: mon jeu comporte un menu pour sélectionner des niveaux, et un mode _endless_.
-
-## Où jouer?
-Le jeu est disponible sur: https://nolanbastien.github.io/SlidingCubeGame/
+# Where to play?
+The game is available at: https://nolanbastien.github.io/SlidingCubeGame/
